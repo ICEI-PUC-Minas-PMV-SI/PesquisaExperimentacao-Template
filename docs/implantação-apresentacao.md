@@ -10,7 +10,7 @@ Importante!! É fundamental que a aplicação em produção (_deploy_ em nuvem) 
 Nesta seção, deve ser produzido um vídeo de até 15 minutos apresentando o escopo geral do projeto, um resumo das etapas desenvolvidas, a demonstração da solução publicada e as conclusões finais, destacando aprendizados, impacto e possibilidades de melhorias.
 
 # Não esquecer de: 
-* <span style="color:red">Atualizar o arquivo **CITATION.cff** disponível no diretório raiz do repositório</span>
+* <span style="color:#ff0000">Atualizar o arquivo **CITATION.cff** disponível no diretório raiz do repositório</span>
 * Atualizar as **Instruções de utilização** no arquivo read.me
 
 
